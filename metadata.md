@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Forcing Creativity through Gamification
+Forcing Creativity through Gamification: Do Prompts Increase Satisfaction with Creative Production?
 ```
 
 ## Research Group Contributions
