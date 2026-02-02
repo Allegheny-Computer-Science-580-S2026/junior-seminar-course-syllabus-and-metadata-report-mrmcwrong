@@ -65,11 +65,11 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
+- **Researcher Name / Project**: [Tai Hopkins: Dataseekr.ai]
 - **Feedback Provided**: \[Brief description of the feedback, suggestions, or
   questions you contributed\]
 - **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Reference**: [[Tai's Chapter 1 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/8)]
 
 Example entries:
 
