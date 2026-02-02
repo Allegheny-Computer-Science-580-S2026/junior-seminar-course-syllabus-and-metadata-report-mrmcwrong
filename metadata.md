@@ -65,11 +65,10 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Tai Hopkins: Dataseekr.ai]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [[Tai's Chapter 1 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/8)]
+- **Researcher Name / Project**: Tai Hopkins: Dataseekr.ai
+- **Feedback Provided**: I made a comment about how this will help with antiquated PAC statistics search engines. I also noted that this would've been very useful information for my previous comp idea.
+- **Impact**: Not applicable in my opinion.
+- **Reference**: [Tai's Chapter 1 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/8)
 
 Example entries:
 
