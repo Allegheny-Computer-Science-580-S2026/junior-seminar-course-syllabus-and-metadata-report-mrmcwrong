@@ -65,21 +65,9 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: Tai Hopkins: Dataseekr.ai
-- **Feedback Provided**: I made a comment about how this will help with antiquated PAC statistics search engines. I also noted that this would've been very useful information for my previous comp idea.
-- **Impact**: Not applicable in my opinion.
-- **Reference**: [Tai's Chapter 1 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/8)
+- **Tai Hopkins / Dataseekr.ai**: I made a comment about how this will help with antiquated PAC statistics search engines. I also noted that this would've been very useful information for my previous comp idea. [Tai's Chapter 1 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/8)
+- **Feedback for Chapter 2 WILL BE ADDED ASAP**
 
-Example entries:
-
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
 
 ### Technical Discussions and Problem-Solving
 
