@@ -2,26 +2,16 @@
 
 ## Researcher Name
 
-A research group member should type their name below.
-
 - **Researcher Name**: `Brennen McWright`
 
 ## Reading Syllabus Pledge
 
-A research group member should add an X-mark to the box to indicate that they
-have carefully read and understood the Junior Seminar Research Project Syllabus
-and that they are ready to complete their Junior Seminar Research Project.
-
-- [Yes] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
 
-A research group member should add an X-mark to the box to indicate that they
-agree to adhere to the Allegheny College Honor Code during the completion of
-their Junior Seminar Research Project.
-
-- [Yes] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
@@ -46,9 +36,6 @@ A research group member should type their GitHub username below.
 
 ## Research Project Title
 
-A research group member should type the title of their junior seminar research
-project into the following fenced code block.
-
 ```text
 Forcing Creativity through Gamification: Do Prompts Increase Satisfaction with Creative Production?
 ```
@@ -62,11 +49,8 @@ researchers.
 
 ### Peer Research Feedback
 
-Document significant feedback you provided to other research group members
-during presentations, demonstrations, or informal discussions. Include:
-
 - **Tai Hopkins / Dataseekr.ai**: I made a comment about how this will help with antiquated PAC statistics search engines. I also noted that this would've been very useful information for my previous comp idea. [Tai's Chapter 1 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/8)
-- **Feedback for Chapter 2 WILL BE ADDED ASAP**
+- **Evan Nelson / WorkoutEvaluator**: I suggested that Evan add a table/chart summarizing the differences in price and major features for the five apps that were mentioned in sectioned 2.2 for quick information access. I also suggested clarifying JEFIT's role as neither a data-driven number cruncher nor a convenient option in the conclusion. This is touched upon in the 2.2.4 section but not mentioned in the summary (Section 2.5). [Evan's Chapter 2 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/11#issue-3998838472)
 
 
 ### Technical Discussions and Problem-Solving
@@ -74,19 +58,7 @@ during presentations, demonstrations, or informal discussions. Include:
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
-
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Android Studio Setup Help**: Helped a fellow researcher with mobile phone emulation for android using Android Studio; mentioned installing necessary Visual Studio packages and SDK's for creating an AVD in Android Studio.
 
 ### Research Group Meeting Participation
 
