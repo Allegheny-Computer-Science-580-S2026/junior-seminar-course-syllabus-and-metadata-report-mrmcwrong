@@ -48,54 +48,15 @@ Consistent Creative Output through Gamification: Does Dynamic Competition Increa
 - **Evan Nelson / WorkoutTracker**: I suggested that Evan add a table/chart summarizing the differences in price and major features for the five apps that were mentioned in sectioned 2.2 for quick information access. I also suggested clarifying JEFIT's role as neither a data-driven number cruncher nor a convenient option in the conclusion. This is touched upon in the 2.2.4 section but not mentioned in the summary (Section 2.5). [Evan's Chapter 2 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/11#issue-3998838472)
 - **Evan Nelson / WorkoutTracker** I suggested that Evan clarify how he got his Fatigue Index standards and what sources he used to come to that conclusion. I also asked a question about Section 3.2.2 where it is unclear what happens if a user forgets a password. Finally, I commended Evan's work with the entirety of section 3.3, which was very interesting to me (especially because I have never used Swift before). [Evan's Chapter 3 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/12#issue-3998939763)
 
-
 ### Technical Discussions and Problem-Solving
 
-Document instances where you participated in collaborative technical
-discussions or helped fellow researchers troubleshoot issues:
-
-- **Android Studio Setup Help**: Helped a fellow researcher with mobile phone emulation for android using Android Studio; mentioned installing necessary Visual Studio packages and SDK's for creating an AVD in Android Studio.
+- **Android Studio Setup Help**: I helped a fellow researcher with mobile phone emulation for android using Android Studio. I also mentioned installing necessary Visual Studio packages and SDK's for creating an AVD in Android Studio.
+- **Discussion of Potential Features with Kristian**: I discussed with Kristian the potential of social-media-like features for MakeUp where users could see eachothers submissions and compete with eachother. I also inquired about the ability of Kristian's tool to find lulls in efficiency for people like me who use unusually sporadic mouse movements.
+- **Optimization Talk with Xander**: I talked with Xander about my test results and some ideas for making my tool more efficient (this is when I thought that the vsync interval display problem I had was due to my app's efficiency and not my testing scripts).
 
 ### Research Group Meeting Participation
 
-Note particularly meaningful contributions during research group meetings:
+- **Week 8 / Question for Javier**: I asked Javier about the potentially overwhelming nature of notifications that companies would receive from his tool, which led to him factoring this problem into his project.
+- **Week 9 / Security Risks Discussion**: I talked with Grant about the potential security risks necessarily involved with his tool. Discussion and brainstorming resulted in a (hopefully) more secure tool that Grant built.
+- **Week 12 / Answered Questions about Flutter Devtools**: While talking with Xander about our evaluation practices, he asked how I got my timeline of frames. I explained the usefulness of Flutter Devtools which encouraged him to do more research on Flutter and other tools.
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
-
-Example entries:
-
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
-
-### Research Resources Shared
-
-Document any research papers, tools, tutorials, or other resources you shared
-with the research group that helped advance collective knowledge:
-
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
-
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
-
-## Additional Project Information
-
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
