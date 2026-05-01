@@ -2,145 +2,61 @@
 
 ## Researcher Name
 
-A research group member should type their name below.
-
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Brennen McWright`
 
 ## Reading Syllabus Pledge
 
-A research group member should add an X-mark to the box to indicate that they
-have carefully read and understood the Junior Seminar Research Project Syllabus
-and that they are ready to complete their Junior Seminar Research Project.
-
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
 
-A research group member should add an X-mark to the box to indicate that they
-agree to adhere to the Allegheny College Honor Code during the completion of
-their Junior Seminar Research Project.
-
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `mrmcwrong`
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-mrmcwrong)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [MakeUp Prototype Repository](https://github.com/mrmcwrong/MakeUp)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/mrmcwrong/MakeUp/tree/main/testing)
 
 ## Research Project Title
 
-A research group member should type the title of their junior seminar research
-project into the following fenced code block.
-
 ```text
-Add the Title of Your Junior Seminar Research Project
+Consistent Creative Output through Gamification: Does Dynamic Competition Increase Users’ Satisfaction with their Creative Output?
 ```
 
 ## Research Group Contributions
 
-As a member of the Junior Seminar research group, document how you contributed
-to the research community beyond your individual project. This section reflects
-the collaborative nature of research work and your engagement with fellow
-researchers.
-
 ### Peer Research Feedback
 
-Document significant feedback you provided to other research group members
-during presentations, demonstrations, or informal discussions. Include:
-
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
-
-Example entries:
-
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
+- **Tai Hopkins / Dataseekr.ai**: I made a comment about how this will help with antiquated PAC statistics search engines. I also noted that this would've been very useful information for my previous comp idea. [Tai's Chapter 1 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-TaiHop/issues/8)
+- **Evan Nelson / WorkoutTracker**: I suggested that Evan add a table/chart summarizing the differences in price and major features for the five apps that were mentioned in sectioned 2.2 for quick information access. I also suggested clarifying JEFIT's role as neither a data-driven number cruncher nor a convenient option in the conclusion. This is touched upon in the 2.2.4 section but not mentioned in the summary (Section 2.5). [Evan's Chapter 2 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/11#issue-3998838472)
+- **Evan Nelson / WorkoutTracker** I suggested that Evan clarify how he got his Fatigue Index standards and what sources he used to come to that conclusion. I also asked a question about Section 3.2.2 where it is unclear what happens if a user forgets a password. Finally, I commended Evan's work with the entirety of section 3.3, which was very interesting to me (especially because I have never used Swift before). [Evan's Chapter 3 Issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/12#issue-3998939763)
 
 ### Technical Discussions and Problem-Solving
 
-Document instances where you participated in collaborative technical
-discussions or helped fellow researchers troubleshoot issues:
-
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
-
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Android Studio Setup Help**: I helped a fellow researcher with mobile phone emulation for android using Android Studio. I also mentioned installing necessary Visual Studio packages and SDK's for creating an AVD in Android Studio.
+- **Discussion of Potential Features with Kristian**: I discussed with Kristian the potential of social-media-like features for MakeUp where users could see eachothers submissions and compete with eachother. I also inquired about the ability of Kristian's tool to find lulls in efficiency for people like me who use unusually sporadic mouse movements.
+- **Optimization Talk with Xander**: I talked with Xander about my test results and some ideas for making my tool more efficient (this is when I thought that the vsync interval display problem I had was due to my app's efficiency and not my testing scripts).
 
 ### Research Group Meeting Participation
 
-Note particularly meaningful contributions during research group meetings:
+- **Week 8 / Question for Javier**: I asked Javier about the potentially overwhelming nature of notifications that companies would receive from his tool, which led to him factoring this problem into his project.
+- **Week 9 / Security Risks Discussion**: I talked with Grant about the potential security risks necessarily involved with his tool. Discussion and brainstorming resulted in a (hopefully) more secure tool that Grant built.
+- **Week 12 / Answered Questions about Flutter Devtools**: While talking with Xander about our evaluation practices, he asked how I got my timeline of frames. I explained the usefulness of Flutter Devtools which encouraged him to do more research on Flutter and other tools.
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
-
-Example entries:
-
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
-
-### Research Resources Shared
-
-Document any research papers, tools, tutorials, or other resources you shared
-with the research group that helped advance collective knowledge:
-
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
-
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
-
-## Additional Project Information
-
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
