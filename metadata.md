@@ -24,28 +24,23 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/mrmcwrong/Brennens-Website)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-mrmcwrong)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [Creativity Up Prototype Repository](https://github.com/mrmcwrong/creativity-up)
+- **Repository URL**: [MakeUp Prototype Repository](https://github.com/mrmcwrong/MakeUp)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/mrmcwrong/MakeUp/tree/main/testing)
 
 ## Research Project Title
 
 ```text
-Forcing Creativity through Gamification: Do Prompts Increase Satisfaction with Creative Production?
+Consistent Creative Output through Gamification: Does Dynamic Competition Increase Users’ Satisfaction with their Creative Output?
 ```
 
 ## Research Group Contributions
-
-As a member of the Junior Seminar research group, document how you contributed
-to the research community beyond your individual project. This section reflects
-the collaborative nature of research work and your engagement with fellow
-researchers.
 
 ### Peer Research Feedback
 
